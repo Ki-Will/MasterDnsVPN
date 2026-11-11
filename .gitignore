@@ -10,7 +10,6 @@ local_dns_cache.bin
 *.key
 *.pem
 *.crt
-.env
 .DS_Store
 logs/
 *.log
@@ -22,7 +21,6 @@ logs/
 build/
 .gocache
 .bench/
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
 .gitignore
+config.bat
+node_modules
